@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "麻將計分", "麻將計分.vbproj", "{938FD7BB-AB1A-41CA-8CB2-0E424C2164A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938FD7BB-AB1A-41CA-8CB2-0E424C2164A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938FD7BB-AB1A-41CA-8CB2-0E424C2164A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938FD7BB-AB1A-41CA-8CB2-0E424C2164A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938FD7BB-AB1A-41CA-8CB2-0E424C2164A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C9AF62-B67E-4C27-B3B6-D8C529C43B58}
+	EndGlobalSection
+EndGlobal
